@@ -1,5 +1,5 @@
 //Configurar SW
-let swLocation = "/beerjs/sw.js";
+let swLocation = "sw.js";
 // "/beerjs/sw.js";
 
 if (navigator.serviceWorker) {
