@@ -1,0 +1,23 @@
+body {
+  background-color: #f9d627;
+  font-family: NeutraText, Helvetica, Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+.cba-header {
+  display: flex;
+  margin: 0 auto;
+}
+
+.cba-header__title {
+  font-weight: 400;
+  font-size: 46px;
+  padding: 38px 0 0 10px;
+  margin: 0;
+}
+
+.cba-header__logo {
+  height: 106px;
+}
+
